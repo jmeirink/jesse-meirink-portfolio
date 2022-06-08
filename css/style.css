@@ -1,11 +1,18 @@
-.body-text {
-  margin: 12% 0 0 17%;
+#intro {
+  background-image: url("../images/pexels-maurício-mascaro-376533.jpg");
+  background-size: cover;
+  height: 650px;
 }
 
-#body-header {
+#intro-text {
+  padding: 10rem;
+  color: whitesmoke;
+}
+
+#intro-header {
   font-size: 3rem;
 }
 
-#body-description {
+#intro-description {
   font-size: 1rem;
 }
