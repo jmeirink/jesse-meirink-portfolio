@@ -5,7 +5,7 @@ body {
 
 a {
   color: white;
-  text-decoration: none; /* no underline */
+  text-decoration: none; /* removes underline */
 }
 
 
@@ -29,6 +29,7 @@ a {
   font-size: 1rem;
 }
 
+
 /* about page */
 #about-div {
   padding: 50px 0 50px;
@@ -47,6 +48,8 @@ a {
   color: white;
   font-size: medium;
 }
+
+
 
 /* work page */
 .work-textbox {
@@ -67,8 +70,9 @@ a {
   /* background-color: whitesmoke; */
 }
 
-/* resume page */
 
+
+/* resume page */
 .resume-textbox {
   height: 50px;
   text-align: center;
@@ -85,8 +89,9 @@ a {
   height: 650px;
 }
 
-/* contact section */
 
+
+/* contact section */
 .contact-content {
   height: 100px;
   color: white;
@@ -101,4 +106,3 @@ a {
   text-align: end;
   padding: 40px 60px 0 0;
 }
-
