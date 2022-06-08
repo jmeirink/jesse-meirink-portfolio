@@ -1,6 +1,6 @@
 /* global styling */
 body {
-  
+  background-color: black;
 }
 
 
@@ -30,6 +30,14 @@ body {
 .about-content {
   height: 650px;
   background-color: grey;
+}
+
+.about-img {
+  /* background-size: cover; */
+}
+
+.about-text {
+  color: white;
 }
 
 /* work page */
