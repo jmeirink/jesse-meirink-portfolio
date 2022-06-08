@@ -1,5 +1,7 @@
 /* global styling */
-
+body {
+  
+}
 
 
 /* home page */
@@ -31,10 +33,14 @@
 }
 
 /* work page */
-.work-text {
+.work-textbox {
   height: 100px;
   text-align: center;
   background-color: white;
+}
+
+.work-text {
+  margin-top: 20px;
 }
 
 .work-content {
@@ -44,13 +50,18 @@
 
 /* resume page */
 
-.resume-text {
+.resume-textbox {
   height: 100px;
   text-align: center;
   background-color: grey;
 }
 
+.resume-text {
+  margin-top: 20px;
+}
+
 .resume-content {
+  display: none; /* remove this to display the element */
   height: 650px;
   background-color: white;
 }
