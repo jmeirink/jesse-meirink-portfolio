@@ -48,7 +48,7 @@
 
   <!-- about page --> <!-- remove border class from column to remove column border -->
   <div id="about" class="container">
-    <div class="row justify-content-center">
+    <div id="about-div" class="row justify-content-center border-top">
       <div class="col-4 about-content">
         <img class ="img-responsive" width="100%" src="images/temporary-about-photo.jpg" alt="">
       </div>
@@ -56,7 +56,7 @@
         <p class="about-text">Let me introduce myself! I am a passionate web-developer located in the city of St. Louis. I love writing code and developing web-applications. I have an assortment of knowledge on a variety of web-based technologies including: HTML, CSS, Javascript, Bootstrap, React, Node and more.</p>
          
         <p class="about-text">
-        If I'm not busy developing a fancy new app, you can find me relaxing at a cool coffee shop nearby or playing drums somewhere!</p>
+        If I'm not busy developing a fancy new app, you can find me relaxing at a cool nearby coffee shop or playing drums somewhere!</p>
       </div>
     </div>
   </div>
@@ -64,30 +64,32 @@
 
   <!-- work page -->
   <div id="work" class="container">
-    <div class="row">
-      <div class="col border work-textbox">
+    <div id="work-div" class="row justify-content-center border-top">
+      <div class="col work-textbox">
         <h1 class="work-text">Check out my work!</h1>
       </div>
     </div>
-    <div class="row">
-      <div class="col border work-content">
-        Work Page, Column 1
+    <div class="row justify-content-center">
+      <div class="col-4 text-center work-content">
+        <img class ="img-responsive rounded" width="75%" src="images/TicTacToe-Square.png" alt="">
       </div>
-      <div class="col border work-content">
-        Work Page, Column 2
+      <div class="col-4 work-content">
+        <h1>Tic-Tac-Toe</h1>
+        <p>This is one of the first applications I created using HTML, CSS and Javascript.</p>
       </div>
     </div>
   </div>
 
   <!-- resume page -->
   <div id="resume" class="container">
-    <div class="row">
-      <div class="col border resume-textbox">
-        <h1 class="resume-text">Check out my resume!</h1>
+    <div class="row border-top">
+      <div class="col resume-textbox">
+        <h1 class="resume-text">Download my resume</h1>
+        <a href="./Resume-Example.pdf" download>Click here to download</a>
       </div>
     </div>
     <div class="row">
-      <div class="col border resume-content">
+      <div class="col resume-content">
         Resume goes here!
       </div>
     </div>
@@ -95,8 +97,8 @@
 
   <!-- contact section -->
   <div id="contact" class="container">
-    <div class="row">
-      <div class="col border contact-content">
+    <div class="row border-top">
+      <div class="col contact-content">
         Contact Section (Coming Soon!!!)
       </div>
     </div>

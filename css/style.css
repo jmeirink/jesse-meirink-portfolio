@@ -5,7 +5,6 @@ body {
 
 
 /* home page */
-
 #home {
   height: 650px;
   background-image: url("../images/pexels-maurício-mascaro-376533.jpg");
@@ -26,9 +25,12 @@ body {
 }
 
 /* about page */
+#about-div {
+  padding: 50px 0 50px;
+}
 
 .about-content {
-  height: 550px;
+  /* height: 550px; */
   /* background-color: grey; */
 }
 
@@ -45,16 +47,19 @@ body {
 .work-textbox {
   height: 100px;
   text-align: center;
-  background-color: white;
+  /* background-color: white; */
 }
 
 .work-text {
   margin-top: 20px;
+  color: white;
 }
 
 .work-content {
-  height: 650px;
-  background-color: white;
+  height: auto;
+  color: white;
+  padding: 50px 0 100px;
+  /* background-color: whitesmoke; */
 }
 
 /* resume page */
@@ -62,22 +67,21 @@ body {
 .resume-textbox {
   height: 100px;
   text-align: center;
-  background-color: grey;
 }
 
 .resume-text {
   margin-top: 20px;
+  color: white;
 }
 
 .resume-content {
   display: none; /* remove this to display the element */
   height: 650px;
-  background-color: white;
 }
 
 /* contact section */
 
 .contact-content {
   height: 100px;
-  background-color: white;
+  color: white;
 }
