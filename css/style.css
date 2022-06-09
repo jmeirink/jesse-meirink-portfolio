@@ -35,6 +35,10 @@ a {
   padding: 50px 0 50px;
 }
 
+#drums:hover {
+  color: blue;
+}
+
 .about-content {
   /* height: 550px; */
   /* background-color: grey; */

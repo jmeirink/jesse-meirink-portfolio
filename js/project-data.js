@@ -1,6 +1,7 @@
+// Work section projects library
 let projectData = [
   {
-    deployment: 'URL goes here',
+    deployment: 'https://tic-tac-toe-jmeirink.netlify.app/',
     title: 'Tic-Tac-Toe',
     image: '/images/TicTacToe-Square.png',
     github: 'https://github.com/jmeirink/ttt-weekend',
@@ -9,6 +10,7 @@ let projectData = [
 ]
 
 
+// JS Exports
 export {
   projectData
 }
