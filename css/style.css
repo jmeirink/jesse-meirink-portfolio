@@ -9,7 +9,7 @@ a {
 }
 
 
-/* home page */
+/* home */
 #home {
   height: 650px;
   background-image: url("../images/pexels-maurício-mascaro-376533.jpg");
@@ -30,7 +30,7 @@ a {
 }
 
 
-/* about page */
+/* about */
 #about-div {
   padding: 50px 0 50px;
 }
@@ -51,7 +51,7 @@ a {
 
 
 
-/* work page */
+/* work */
 .work-textbox {
   height: 100px;
   text-align: center;
@@ -72,7 +72,7 @@ a {
 
 
 
-/* resume page */
+/* resume */
 .resume-textbox {
   height: 50px;
   text-align: center;
@@ -91,7 +91,7 @@ a {
 
 
 
-/* contact section */
+/* contact */
 .contact-content {
   height: 100px;
   color: white;
