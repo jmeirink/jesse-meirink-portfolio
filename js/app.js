@@ -28,7 +28,7 @@ const drums = document.getElementById('drums')
 drums.addEventListener('click', playDrumSound)
 
 function playDrumSound() {
-    const audio = new Audio('/audio/MadDrumSounds.mp3');
+    const audio = new Audio('/assets/audio/MadDrumSounds.mp3');
     audio.play();
 }
 
