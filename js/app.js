@@ -35,6 +35,7 @@ function playDrumSound() {
 
 // JS Functionality Task 3/3 - Dynamicaly link projects to html
 const projectsSection = document.getElementById('my-projects')
+
 let projectMarkup = projectData.map(project =>
   `
     <div class="row justify-content-center">
@@ -52,4 +53,5 @@ let projectMarkup = projectData.map(project =>
     </div>
   `
 ).join('')
+
 projectsSection.innerHTML = projectMarkup
