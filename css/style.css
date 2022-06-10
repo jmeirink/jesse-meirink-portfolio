@@ -1,7 +1,6 @@
 /* global styling */
 #navbar {
   background-color: #807f7f56;
-  /* background-color: rgba(255,255,255,0.7); */
 }
 
 body {
@@ -44,14 +43,14 @@ a {
   color: blue;
 }
 
-.about-content {
-  /* height: 550px; */
-  /* background-color: grey; */
-}
+/* .about-content {
+  height: 550px;
+  background-color: grey;
+} */
 
-.about-img {
-  /* background-size: cover; */
-}
+/* .about-img {
+  background-size: cover;
+} */
 
 .about-text {
   color: white;
@@ -76,7 +75,6 @@ a {
   color: white;
   padding: 50px 0 50px;
   margin-bottom: 50px;
-  background-color: #807f7f56;
 }
 
 
