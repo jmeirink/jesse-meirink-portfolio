@@ -1,4 +1,4 @@
-# jesse-meirinks-portfolio
+# jesse-meirink-portfolio
 
 <img width="1180" alt="Portfolio Image" src="https://user-images.githubusercontent.com/84925553/173007112-293894b7-13ea-467a-a392-0caaf70f4ec7.png">
 
