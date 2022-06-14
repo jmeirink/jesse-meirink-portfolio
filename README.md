@@ -2,7 +2,7 @@
 
 <img width="1180" alt="Portfolio Image" src="https://user-images.githubusercontent.com/84925553/173007112-293894b7-13ea-467a-a392-0caaf70f4ec7.png">
 
-This is a portfolio website I built to show off some of my web-development skills and what I have to offer.
+### This is my first portfolio website I made using HTML, CSS and Javascript.
 
 Check out the website.
 * (https://charming-manatee-b1d3e2.netlify.app/)
