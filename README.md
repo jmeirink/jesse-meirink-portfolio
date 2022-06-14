@@ -4,14 +4,13 @@
 
 This is a portfolio website I built to show off some of my web-development skills and what I have to offer.
 
-Getting started:
-Click on this link to check out my portfolio!
-https://charming-manatee-b1d3e2.netlify.app/
+Check out the website.
+* (https://charming-manatee-b1d3e2.netlify.app/)
 
-Click on this link to see my Trello planning.
-https://trello.com/b/L1PKFWoG/jesse-meirink-portfolio
+Check out my Trello planning.
+* (https://trello.com/b/L1PKFWoG/jesse-meirink-portfolio)
 
-Technologies: 
+Technologies Used: 
 * HTML
 * CSS
 * JavaScript
