@@ -11,8 +11,18 @@ https://charming-manatee-b1d3e2.netlify.app/
 Click on this link to see my Trello planning.
 https://trello.com/b/L1PKFWoG/jesse-meirink-portfolio
 
-Technologies: HTML, CSS, JavaScript, Bootstrap and Git
+Technologies: 
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Git
 
-Credits: Font Awesome for the icons, and Pexels for the background image.
+Credits: 
+* Font Awesome icons
+* Pexels background image
 
-Next steps: Replace existing placeholder images and resume file. Update fonts to more stylish Google Fonts. Further modify the layout of website elements.
+Next steps: 
+* Replace existing placeholder images and resume file.
+* Update fonts to more stylish Google Fonts.
+* Further modify the layout of website elements.

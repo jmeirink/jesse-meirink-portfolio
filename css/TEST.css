@@ -1,0 +1,115 @@
+/* global styling */
+body {
+  background-color: black;
+}
+
+a {
+  color: white;
+  text-decoration: none; /* removes underline */
+}
+
+
+/* navbar DONE */
+#navbar {
+  background-color: #3c3c3c56;
+}
+
+
+/* home DONE */
+#home-section {
+  height: 650px;
+  background-image: url("../assets/images/pexels-maurício-mascaro-376533.jpg");
+  background-size: cover;
+}
+
+#home-textbox {
+  padding: 10rem;
+  color: whitesmoke;
+}
+
+#home-header {
+  font-size: 3rem;
+}
+
+#home-description {
+  font-size: 1rem;
+}
+
+
+/* about */
+#about-div {
+  padding: 50px 0 50px;
+}
+
+#drums:hover {
+  color: blue;
+}
+
+/* .about-content {
+  height: 550px;
+  background-color: grey;
+} */
+
+/* .about-img {
+  background-size: cover;
+} */
+
+.about-text {
+  color: white;
+  font-size: medium;
+}
+
+
+
+/* work */
+.work-textbox {
+  height: 100px;
+  text-align: center;
+}
+
+.work-text {
+  margin-top: 20px;
+  color: white;
+}
+
+.work-content {
+  height: auto;
+  color: white;
+  padding: 50px 0 50px;
+  margin-bottom: 50px;
+}
+
+
+
+/* resume */
+.resume-textbox {
+  height: 50px;
+  text-align: center;
+}
+
+.resume-text {
+  margin-top: 10px;
+}
+
+.resume-content {
+  display: none; /* remove this to display the element */
+  height: 650px;
+}
+
+
+
+/* contact */
+.contact-content {
+  height: 100px;
+  color: white;
+}
+
+.email-content {
+  text-align: start;
+  padding: 20px 0 0 60px;
+}
+
+.social-content {
+  text-align: end;
+  padding: 40px 60px 0 0;
+}
