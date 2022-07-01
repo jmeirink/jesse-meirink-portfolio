@@ -1,8 +1,9 @@
-# jesse-meirink-portfolio
+# Checkout My Portfolio!
 
 <img width="1180" alt="Portfolio Image" src="https://user-images.githubusercontent.com/84925553/173007112-293894b7-13ea-467a-a392-0caaf70f4ec7.png">
 
-**This is the first portfolio website I made using HTML, CSS and Javascript!**
+**Description:**
+- This is the first portfolio website I made using HTML, CSS and Javascript!
 
 **Getting Started:**
 - Deployed Site: - https://charming-manatee-b1d3e2.netlify.app/
