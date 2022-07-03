@@ -22,5 +22,4 @@
 
 **Next steps:**
 * Replace existing placeholder images and resume file.
-* Update fonts to more stylish Google Fonts.
-* Further modify the layout of website elements.
+* Work on responsive design.
