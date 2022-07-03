@@ -46,8 +46,8 @@ let projectMarkup = projectData.map(project =>
         <h1>${project.title}</h1>
         <p>${project.description}</p>
         <div>
-            <a href="${project.github}" class="btn btn-primary" target="_blank">GitHub</a>
-            <a href="${project.deployment}" class="btn btn-primary" target="_blank">Deployment</a>
+            <a href="${project.github}" class="btn btn-secondary" target="_blank">GitHub</a>
+            <a href="${project.deployment}" class="btn btn-secondary" target="_blank">Deployment</a>
         </div>
     </div>
     </div>

@@ -1,10 +1,11 @@
 /* global styling */
 #navbar {
-  background-color: #807f7f56;
+  background-color: #2d2d2d;
 }
 
 body {
   background-color: black;
+  font-family: 'Asap', sans-serif;
 }
 
 a {
