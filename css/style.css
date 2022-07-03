@@ -40,8 +40,8 @@ a {
   padding: 50px 0 50px;
 }
 
-#drums:hover {
-  color: blue;
+#drums {
+  cursor: pointer;
 }
 
 .about-content {
