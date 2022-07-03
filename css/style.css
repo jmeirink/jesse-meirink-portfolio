@@ -49,9 +49,9 @@ a {
   background-color: grey;
 } */
 
-/* .about-img {
-  background-size: cover;
-} */
+.about-img {
+  width: 95%;
+}
 
 .about-text {
   color: white;
