@@ -6,7 +6,7 @@
 - This is the first website I made using HTML, CSS and Javascript!
 
 **Getting Started:**
-- Deployed Site: - https://charming-manatee-b1d3e2.netlify.app/
+- Deployed Site: - https://jesse-meirink-portfolio.netlify.app/
 - Trello Planning: - https://trello.com/b/L1PKFWoG/jesse-meirink-portfolio
 
 **Technologies Used:**
