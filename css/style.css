@@ -60,7 +60,6 @@ a {
 }
 
 
-
 /* work */
 .work-textbox {
   height: 100px;
@@ -80,7 +79,6 @@ a {
 }
 
 
-
 /* resume */
 .resume-textbox {
   height: 50px;
@@ -95,7 +93,6 @@ a {
   display: none; /* remove this to display the element */
   height: 650px;
 }
-
 
 
 /* contact */
