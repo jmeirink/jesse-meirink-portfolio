@@ -120,6 +120,7 @@ a {
 
 /* Responsive design */
 @media only screen and (max-width: 768px) {
+  /* home */
   #home {
     height: 600px;
     margin-top: 50px;
@@ -131,8 +132,17 @@ a {
     padding: 10rem 1rem;
   }
 
-  .about-text {
-    /* text-align: center; */
+
+  /* about */
+  .about-img {
+    margin-bottom: 50px;
   }
+
+
+  /* work */
+
+
+  
+  /* contact */
 }
 
