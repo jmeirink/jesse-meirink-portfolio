@@ -111,10 +111,20 @@ a {
   padding: 40px 60px 0 0;
 }
 
+
 /* Add padding around social icons */
 .fa-github:before {
   content: "\f09b";
   margin: 15px;
 }
 
-/* test */
+
+/* Responsive design */
+@media only screen and (min-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+  
+}
+
