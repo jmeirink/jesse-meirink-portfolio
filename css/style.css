@@ -117,9 +117,24 @@ a {
   margin: 15px;
 }
 
+
 /* Responsive design */
+@media only screen and (max-width: 992px) {
+  .work-text {
+    margin: 45px;
+  }
+
+  .work-content {
+    padding: 0px 100px;
+    margin-bottom: 0px;
+  }
+
+  .project-buttons {
+    margin-bottom: 85px;
+  }
+}
+
 @media only screen and (max-width: 768px) {
-  /* home */
   #home {
     height: 600px;
     margin-top: 50px;
@@ -131,17 +146,11 @@ a {
     padding: 10rem 1rem;
   }
 
-
-  /* about */
   .about-img {
     margin-bottom: 50px;
   }
 
-
-  /* work */
-
-
-  
-  /* contact */
+  .work-content {
+    padding: 0px 20px;
+  }
 }
-
