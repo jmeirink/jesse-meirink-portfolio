@@ -78,19 +78,10 @@ a {
 }
 
 
-/* resume */
-.resume-textbox {
-  height: 50px;
+/* resume content */
+.resume-content h2 {
   text-align: center;
-}
-
-.resume-text {
-  margin-top: 10px;
-}
-
-.resume-content {
-  display: none; /* remove this to display the element */
-  height: 650px;
+  margin: 1rem auto;
 }
 
 
@@ -101,13 +92,16 @@ a {
 }
 
 .email-content {
-  text-align: start;
-  padding: 20px 0 0 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .social-content {
-  text-align: end;
-  padding: 40px 60px 0 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 
