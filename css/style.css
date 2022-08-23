@@ -45,7 +45,7 @@ a {
 }
 
 .about-content {
-  margin: auto;  /* This verticly center aligns the content in the div */
+  margin: auto 15px;
 }
 
 .about-img {
@@ -56,18 +56,17 @@ a {
 .about-text {
   color: white;
   font-size: medium;
-  /* text-align: center; */
+  padding: 0px 15px;
 }
 
 
 /* work */
 .work-textbox {
-  height: 100px;
   text-align: center;
 }
 
 .work-text {
-  margin-top: 20px;
+  margin-top: 50px;
   color: white;
 }
 
