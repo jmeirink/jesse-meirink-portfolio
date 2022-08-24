@@ -8,6 +8,13 @@ let projectData = [
     description: 'Welcome to Brew Guides. This app was created for coffee enthusiasts to have a place to share all of their brew recipes in one place.'
   },
   {
+    deployment: 'https://tic-tac-toe-jmeirink.netlify.app/',
+    title: 'Tic-Tac-Toe',
+    image: '/assets/images/project-screenshots/tic-tac-toe.png',
+    github: 'https://github.com/jmeirink/ttt-weekend',
+    description: 'This is one of the first applications I created using HTML, CSS and Javascript.'
+  },
+  {
     deployment: 'https://sei-code-cards.netlify.app/',
     title: 'Code Cards',
     image: '/assets/images/project-screenshots/code-cards-desktop.png',
@@ -27,13 +34,6 @@ let projectData = [
     image: '/assets/images/project-screenshots/destination-vacation.png',
     github: 'https://github.com/jmeirink/destination-vacation',
     description: "Welcome to Destination Vacation. This is a full-stack Django application. The purpose of this app is to provide a place for users to share vacation locations and activities. Best of all, this app is fully scalable, so feel free to browse on your phone, laptop, or whichever device you choose."
-  },
-  {
-    deployment: 'https://tic-tac-toe-jmeirink.netlify.app/',
-    title: 'Tic-Tac-Toe',
-    image: '/assets/images/project-screenshots/tic-tac-toe.png',
-    github: 'https://github.com/jmeirink/ttt-weekend',
-    description: 'This is one of the first applications I created using HTML, CSS and Javascript.'
   }
 ]
 
