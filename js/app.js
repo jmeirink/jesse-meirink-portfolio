@@ -8,18 +8,18 @@ let intervalID = 0;
 window.onload = fadeIn;
 
 function fadeIn() {
-    setInterval(reveal, 100);
+  setInterval(reveal, 100);
 }
 
 function reveal() {
-    const helloText = document.getElementById("home-description");
-    opacity = Number(window.getComputedStyle(helloText).getPropertyValue("opacity"));
-    if (opacity < 1) {
-        opacity = opacity + 0.03;
-        helloText.style.opacity = opacity
-    } else {
-        clearInterval(intervalID);
-    }
+  const helloText = document.getElementById("home-description");
+  opacity = Number(window.getComputedStyle(helloText).getPropertyValue("opacity"));
+  if (opacity < 1) {
+    opacity = opacity + 0.03;
+    helloText.style.opacity = opacity
+  } else {
+    clearInterval(intervalID);
+  }
 }
 
 
@@ -28,8 +28,8 @@ const drums = document.getElementById('drums')
 drums.addEventListener('click', playDrumSound)
 
 function playDrumSound() {
-    const audio = new Audio('/assets/audio/MadDrumSounds.mp3');
-    audio.play();
+  const audio = new Audio('/assets/audio/MadDrumSounds.mp3');
+  audio.play();
 }
 
 
@@ -40,15 +40,15 @@ let projectMarkup = projectData.map(project =>
   `
     <div class="row justify-content-center">
         <div class="col-lg-4 col-sm-12 text-center work-content">
-            <img class ="img-responsive rounded" width="75%" src="${project.image}" alt="">
+          <img class ="img-responsive rounded" width="75%" src="${project.image}" alt="">
         </div>
         <div class="col-lg-4 col-sm-12 work-content">
-            <h1>${project.title}</h1>
-            <p>${project.description}</p>
-            <div class="project-buttons">
-                <a href="${project.github}" class="btn btn-secondary" target="_blank">GitHub</a>
-                <a href="${project.deployment}" class="btn btn-secondary" target="_blank">Deployment</a>
-            </div>
+          <h1>${project.title}</h1>
+          <p>${project.description}</p>
+          <div class="project-buttons">
+            <a href="${project.github}" class="btn btn-secondary" target="_blank">GitHub</a>
+            <a href="${project.deployment}" class="btn btn-secondary" target="_blank">Deployment</a>
+          </div>
         </div>
     </div>
   `
